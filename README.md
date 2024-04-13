@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshal39?tab=repositories](https://github.com/Harshal39?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://vercel.com/harshal-bhutes-projects](https://vercel.com/harshal-bhutes-projects)
 
 - 💬 Ask me about **Front-End Development and Version Controls**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@harshalbhute26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshalbhute26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshal bhute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal bhute" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshal-b-0b21682a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal bhute" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
