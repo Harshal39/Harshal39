@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@harshalbhute26" target="blank"><img src="https://img.shields.io/twitter/follow/@harshalbhute26?logo=twitter&style=for-the-badge" alt="@harshalbhute26" /></a> </p>
 
-- 🔭 I’m currently working on [Ochi Webiste](https://github.com/Harshal39/Podcast-Platform/)
+- 🔭 I’m currently working on [Podcast Platform](https://github.com/Harshal39/Podcast-Platform/)
 
 - 🌱 I’m currently learning **ReactJS**
 
